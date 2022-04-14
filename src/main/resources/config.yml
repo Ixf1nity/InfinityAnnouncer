@@ -1,0 +1,36 @@
+#Placeholders & ChatColors Are supported..
+message-announcement:
+  enabled: true
+  test1:
+    delay-timer: 200 #in ticks
+    message-lines:
+      - ""
+      - "ANNOUNCER WORKS"
+      - "ANNOUNCER WORKS1"
+      - "ANNOUNCER WORKS3"
+      - ""
+    sound-settings:
+      enabled: true
+      sound: CHICKEN_POP
+
+title-announcement:
+  enabled: true
+  titletest:
+    delay-timer: 200
+    title: "ANNOUNCER WORKS"
+    subtitle: "ANNOUNCER WORKS1"
+    fade-in: 20
+    stay: 40
+    fade-out: 20
+    sound-settings:
+      enabled: true
+      sound: LEVEL_UP
+
+action-bar-announcement:
+  enabled: true
+  actionbartest:
+    delay-timer: 200
+    message: "ActionBar Announcement"
+    sound-settings:
+      enabled: true
+      sound: EXPLODE
