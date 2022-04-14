@@ -25,12 +25,3 @@ title-announcement:
     sound-settings:
       enabled: true
       sound: LEVEL_UP
-
-action-bar-announcement:
-  enabled: true
-  actionbartest:
-    delay-timer: 200
-    message: "ActionBar Announcement"
-    sound-settings:
-      enabled: true
-      sound: EXPLODE
