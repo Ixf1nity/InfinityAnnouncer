@@ -1,5 +1,5 @@
 name: InfinityAnnoucer
 version: '${project.version}'
-main: me.infinitydev.guinews.AnnouncerPlugin
+main: me.infinitydev.announcer.AnnouncerPlugin
 authors: [ Infinity ]
 description: A Advanced Announcer Plugin
