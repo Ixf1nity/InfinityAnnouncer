@@ -12,6 +12,17 @@ message-announcement:
     sound-settings:
       enabled: true
       sound: CHICKEN_POP
+  test2:
+    delay-timer: 20
+    message-lines:
+      - ""
+      - "TEst1"
+      - "Test1"
+      - "Test1"
+      - ""
+      sound-settings:
+        enabled: true
+        sound: LEVEL_UP
 
 title-announcement:
   enabled: true

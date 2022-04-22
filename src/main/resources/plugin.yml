@@ -1,4 +1,4 @@
-name: InfinityAnnoucer
+name: InfinityAnnouncer
 version: '${project.version}'
 main: me.infinitydev.announcer.AnnouncerPlugin
 authors: [ Infinity ]
